@@ -1,0 +1,8 @@
+#secretive files
+config.py
+/__pycache__
+
+#generated files
+final_resume.txt
+job_description.txt
+resume.txt
